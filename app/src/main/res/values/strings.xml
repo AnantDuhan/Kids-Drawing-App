@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kids Drawing App</string>
+    <string name="color_pallet">color_pallet</string>
+    <string name="brush_image">brush image</string>
+</resources>
